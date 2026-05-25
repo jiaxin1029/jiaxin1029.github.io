@@ -114,14 +114,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "xin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "欢迎光临我的OPC个人试验基地"
+  location         : "杭州，浙江"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
+    - label: "a1416644602@gmail.com"
       icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:your.name@email.com"
     - label: "Website"
